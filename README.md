@@ -1,11 +1,18 @@
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F73D93&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Science+Enthusiast;Problem+Solver;Passionate+about+Real+World+Solutions;Enthusiastic+%26+Hardworking+Individual" alt="Typing Animation" />
+  </a>
+</p>
+
 <h1 align="center">Hi there 👋, I'm Sivaprakash</h1>
-<h3 align="center">💻 Enthusiastic Software Developer | Intern @ VCodez | Aspiring Data Scientist</h3>
+<h3 align="center">💻 Enthusiastic Software Developer | Seeking for Software Developer job </h3>
 
 ---
 
 ### 🚀 About Me  
 - 💼 Currently interning at **VCodez** (4 months experience).  
-- 📊 Currently learning **DSA** and Making Web Applications using Python & JavaScript.  
+- 📊 Currently learning **Data Science & Machine Learning**.  
 - 💡 Passionate about designing software that solves **real-world problems**.  
 - 🤝 Seeking a **Software Developer role** to apply my skills and grow.  
 - ⚡ Fun Fact: *“Power comes not from knowledge kept but from knowledge shared.”*  
