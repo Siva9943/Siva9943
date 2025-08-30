@@ -55,7 +55,7 @@
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siva9943&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva9943&layout=compact&theme=radical&hide=typescript,java,css" alt="Top Languages" height="160"/
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siva9943&theme=radical" alt="Streak Stats" height="160"/>
 </p>
 
