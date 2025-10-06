@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me  
-- 💼 Currently interning at **VCodez** (3 months of experience).  
+- 💼 Completed internship for **VCodez** (4 months of experience).  
 - 📊 Currently learning **Data Structures and Algorithms / Cloud Basics**.  
 - 💡 Passionate about designing software that solves **real-world problems**.  
 - 🤝 Seeking a **Software Developer role** to apply my skills and grow.  
